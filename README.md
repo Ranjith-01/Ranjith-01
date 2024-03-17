@@ -1,4 +1,5 @@
 # 💫 About Me:
+<br>
 ***********************************************************************<br>        👨‍🎓 I'm a  Electrical Engineering Student<br>         🔭 I’m currently working on E-Vehicle and Embedded Systems<br>         👨‍🏫 Active Learner and Project Lead<br>         💬 Ask me about anything, I am happy to help<br>         ✍ I'm a Content Writer with 100 user reads<br>         🌱 I'm currently learning:<br>                           Data Structures and Algorithms on LeetCode<br>                           Tools and technologies from React <br>                           Embedded Systems, VFD and PLC<br>                           Automation Technologies<br>         👯 Join my community if you're a tech enthusiast<br>         📬 How to reach me: veragu464@gmail.com<br>         💪 This is where I write, code, design and solve problems:<br><br>***********************************************************************
 
 
