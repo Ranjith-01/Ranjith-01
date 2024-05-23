@@ -1,4 +1,4 @@
-#**RANJITH KUMAR V**
+**RANJITH KUMAR V**
 
 # 💫 About Me:
 <br>
