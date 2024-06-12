@@ -1,5 +1,3 @@
-**RANJITH KUMAR V**
-
 # 💫 About Me:
 <br>
 ***********************************************************************<br>        👨‍🎓 I'm a  Electrical Engineering Student<br>         🔭 I'm currently working on E-Vehicle and Embedded Systems<br>         👨‍🏫 Active Learner and Project Lead<br>         💬 Ask me about anything, I am happy to help<br>         ✍ I'm a Content Writer with 100 user reads<br>         🌱 I'm currently learning:<br>                            Data Structures and Algorithms on LeetCode<br>                            Tools and technologies from React <br>                            Embedded Systems, VFD and PLC<br>                           
